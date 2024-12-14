@@ -8,7 +8,7 @@ import java.time.format.DateTimeFormatter;
 import static org.junit.jupiter.api.Assertions.*;
 
 public class AlumnoTest {
-/*
+
     private static final String CADENA_NO_ESPERADA = "La cadena devuelta no es la esperada.";
 
     private static final String NOMBRE_NO_ESPERADO = "El nombre devuelto no es el mismo que el pasado al constructor.";
